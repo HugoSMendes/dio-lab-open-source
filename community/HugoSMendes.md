@@ -1,6 +1,6 @@
 # Olá! 👋🏻
-Meu nome é Hugo Mendes, tenho 44 anos. Trabalho em O&M de Serviços de TV da Telefonica Vivo. 
-Tenho interesse em aprender algumas linguagens de programação e também e aprofundar em PowerBI.
+Meu nome é Hugo Mendes, tenho 44 anos. Trabalho em O&M de Serviços de TV. 
+Tenho interesse em aprender algumas linguagens de programação e também me aprofundar em PowerBI.
 
 ## 📚 As ferramentas que estudo e utilizo são:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
